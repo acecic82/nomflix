@@ -31,7 +31,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "yarn run build"
   },
-  "homepage": "https://acecic82.github.io/nomflix",
+  "homepage": "https://acecic82.github.io/nomflix2",
   "eslintConfig": {
     "extends": "react-app"
   },
