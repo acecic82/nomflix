@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/nomflix2/static/js/main.6daf8194.chunk.js",
-    "main.js.map": "/nomflix2/static/js/main.6daf8194.chunk.js.map",
-    "runtime-main.js": "/nomflix2/static/js/runtime-main.5982e2c2.js",
-    "runtime-main.js.map": "/nomflix2/static/js/runtime-main.5982e2c2.js.map",
-    "static/js/2.cc8f2fd3.chunk.js": "/nomflix2/static/js/2.cc8f2fd3.chunk.js",
-    "static/js/2.cc8f2fd3.chunk.js.map": "/nomflix2/static/js/2.cc8f2fd3.chunk.js.map",
-    "index.html": "/nomflix2/index.html",
-    "precache-manifest.1f31fe9317524a49eac409355f4d696f.js": "/nomflix2/precache-manifest.1f31fe9317524a49eac409355f4d696f.js",
-    "service-worker.js": "/nomflix2/service-worker.js",
-    "static/js/2.cc8f2fd3.chunk.js.LICENSE.txt": "/nomflix2/static/js/2.cc8f2fd3.chunk.js.LICENSE.txt",
-    "static/media/imdb.png": "/nomflix2/static/media/imdb.b8cc6f11.png",
-    "static/media/noImage.png": "/nomflix2/static/media/noImage.083cf410.png"
+    "main.js": "/nomflix/static/js/main.6daf8194.chunk.js",
+    "main.js.map": "/nomflix/static/js/main.6daf8194.chunk.js.map",
+    "runtime-main.js": "/nomflix/static/js/runtime-main.a658bcd6.js",
+    "runtime-main.js.map": "/nomflix/static/js/runtime-main.a658bcd6.js.map",
+    "static/js/2.eb288796.chunk.js": "/nomflix/static/js/2.eb288796.chunk.js",
+    "static/js/2.eb288796.chunk.js.map": "/nomflix/static/js/2.eb288796.chunk.js.map",
+    "index.html": "/nomflix/index.html",
+    "precache-manifest.a49c5e96ec7d5570c5e363427a5d78e1.js": "/nomflix/precache-manifest.a49c5e96ec7d5570c5e363427a5d78e1.js",
+    "service-worker.js": "/nomflix/service-worker.js",
+    "static/js/2.eb288796.chunk.js.LICENSE.txt": "/nomflix/static/js/2.eb288796.chunk.js.LICENSE.txt",
+    "static/media/imdb.png": "/nomflix/static/media/imdb.b8cc6f11.png",
+    "static/media/noImage.png": "/nomflix/static/media/noImage.083cf410.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5982e2c2.js",
-    "static/js/2.cc8f2fd3.chunk.js",
+    "static/js/runtime-main.a658bcd6.js",
+    "static/js/2.eb288796.chunk.js",
     "static/js/main.6daf8194.chunk.js"
   ]
 }
