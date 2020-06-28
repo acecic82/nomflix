@@ -31,7 +31,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "yarn run build"
   },
-  "homepage": "https://acecic82.github.io",
+  "homepage": "https://pedantic-neumann-8be55c.netlify.app",
   "eslintConfig": {
     "extends": "react-app"
   },
